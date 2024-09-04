@@ -1,0 +1,12 @@
+[
+  {
+    "text": "Interview",
+    "link": "/interview/",
+    "activeMatch": "/interview/"
+  },
+  {
+    "text": "Technology",
+    "link": "/technology/",
+    "activeMatch": "/technology/"
+  }
+]
