@@ -7,11 +7,11 @@ hero:
   tagline: Software Engineer Interview Dictionary tagline
   actions:
     - theme: brand
-      text: Quick Start
-      link: /guide/
+      text: Interview
+      link: /interview/
     - theme: alt
-      text: GitHub
-      link: https://github.com/web-infra-dev/rspress
+      text: Technology
+      link: /technology/
   image:
     src: /rspress-icon.png
     alt: Software Engineer Interview Dictionary Logo
