@@ -1,7 +1,7 @@
 # Vue
 
-## Vue 3
+## Vue 2 和 Vue 3 的区别
 
-### Vue 3 新特性
+Reference
 
-#### Composition API
+- changelog: https://github.com/vuejs/core/blob/main/CHANGELOG.md
